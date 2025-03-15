@@ -2,17 +2,15 @@
 
 ## Praktikum 1
 
-![Praktikum 1](./praktikum1.gif)
+![Praktikum 1](./images/praktikum1.gif)
 
 ## Praktikum 2
 
-![Praktikum 2](./praktikum2.gif)
+![Praktikum 2](./images/praktikum2.gif)
 
 ## Praktikum 3
 
-![Praktikum 3](./praktikum3.gif)
-
-A new Flutter project.
+![Praktikum 3](./images/praktikum3.gif)
 
 ## Full Penjelasan Praktikum
 
